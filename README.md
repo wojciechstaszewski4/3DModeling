@@ -1,4 +1,4 @@
-# 🎨 3D Modeling and Animation Portfolio  
+# 🎨 3D Modeling & Animation Portfolio  
 
 This repository contains a collection of **3D modeling and animation projects** created using **3ds Max**. These projects showcase a variety of skills, including:  
 - 3D modeling: Designing objects and scenes with realistic geometry.  
