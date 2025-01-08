@@ -1,49 +1,87 @@
-# 🎨 3D Modeling Portfolio  
+# 🎨 3D Modeling and Animation Portfolio  
 
-This repository contains a collection of 3D modeling projects created using **3ds Max**. Each project demonstrates skills in modeling, texturing, lighting, and rendering, focusing on creating both realistic and stylized designs. The repository is organized into folders, each representing a specific project.  
+This repository contains a collection of **3D modeling and animation projects** created using **3ds Max**. These projects showcase a variety of skills, including:  
+- 3D modeling: Designing objects and scenes with realistic geometry.  
+- Texturing and lighting: Applying textures and setting up lighting for enhanced realism.  
+- Rendering: Producing high-quality renders of models and scenes.  
+- Animation: Creating dynamic and fluid animations, from simple movements to complex sequences.  
 
 ---
 
 ## 📂 Folder Structure  
 
 Each folder includes:  
-1. **Renders**: Final rendered images of the project.  
-2. **3ds Max Project File**: Source file for the 3D model.  
-3. **References**: Reference images used during the design process.  
-4. **Textures** (if applicable): Textures applied to the model for enhanced realism.  
+1. **Animations/Renders**: Final rendered images or animations of the project.  
+2. **3ds Max Project File**: Source file for the 3D model or animation.  
+3. **References**: Reference images used during the creation process.  
+4. **Textures** (if applicable): Textures applied to the model or animation.  
 
 ---
 
 ## 🏆 Featured Projects  
 
-1. **Chess Board and Chess Pieces**  
-   - A realistic chessboard with intricately modeled chess pieces. Includes a variant for checkers.  
+### **3D Models**  
+1. **Checkerboard**  
+   - A realistic checkerboard modeled with precision and detailed textures.  
 
-2. **Sword**  
-   - A stylized sword showcasing attention to detail and material design.  
+2. **Checkers**  
+   - Modeled individual checkers pieces to accompany the checkerboard.  
 
-3. **Mask**  
-   - A minimalistic yet refined 3D mask with smooth geometry.  
+3. **Chess**  
+   - A full chess set featuring intricately designed pieces and a detailed chessboard.  
 
 4. **Still Life Composition**  
-   - A lifelike arrangement of fruits and objects rendered with realistic lighting.  
+   - A lifelike arrangement of objects rendered with high realism.  
 
-5. **Bottles**  
-   - A series of bottles modeled with different shapes and proportions.  
+5. **Carriage**  
+   - A vintage wooden carriage with detailed modeling and texturing.  
 
-6. **Carriage**  
-   - A detailed wooden carriage with a vintage design.  
+6. **Nursery Room**  
+   - A vibrant children's room filled with modeled furniture and toys.  
 
-7. **Nursery Room**  
-   - A colorful 3D recreation of a children's room with furniture and toys.  
+7. **Mask**  
+   - A clean and minimalistic 3D mask.  
 
 8. **Chairs**  
-   - A creative experiment in modeling a cluster of chairs with unique arrangements.  
+   - A creative arrangement of chairs modeled with unique geometry.  
+
+9. **Bottles**  
+   - A series of bottles modeled with different shapes and proportions.  
+
+10. **Sword**  
+   - A stylized sword showcasing attention to detail and material design.  
+
+---
+
+### **Animations**  
+1. **Walking Cycle**  
+   - A smooth walking cycle animation.  
+
+2. **Squash & Stretch Ball**  
+   - A dynamic animation showcasing squash and stretch principles.  
+
+3. **Pouring Water**  
+   - A realistic animation of water pouring from a jug into a cup.  
+
+4. **Falling Ball**  
+   - A ball dynamically falling down stairs.  
+
+5. **Pendulum Bounce**  
+   - A pendulum-like animation with bouncing physics.  
+
+6. **Ball with Tail**  
+   - A stylized animation of a ball with a flowing tail.  
+
+7. **Light vs Heavy Ball**  
+   - An animation demonstrating the difference in movement between a light and a heavy ball.  
+
+8. **Basketball**  
+   - A textured and realistic basketball animation.  
 
 ---
 
 ## 🔧 How to Use  
 
 1. Browse the folders to explore individual projects.  
-2. Open the `.max` file in **3ds Max** to examine the project in detail.  
-3. Review the reference images and textures to understand the design process.  
+2. Open the `.max` file in **3ds Max** to view or edit the project.  
+3. Review the rendered animations or images to see the final results.  
