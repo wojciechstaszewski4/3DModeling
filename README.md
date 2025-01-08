@@ -11,7 +11,7 @@ This repository contains a collection of **3D modeling and animation projects** 
 ## 📂 Folder Structure  
 
 Each folder includes:  
-1. **Animations/Renders**: Final rendered images or animations of the project.  
+1. **Renders**: Final rendered images or animations of the project.  
 2. **3ds Max Project File**: Source file for the 3D model or animation.  
 3. **References**: Reference images used during the creation process.  
 4. **Textures** (if applicable): Textures applied to the model or animation.  
