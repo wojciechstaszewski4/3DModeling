@@ -1,6 +1,6 @@
 # 🎨 3D Modeling & Animation  
 
-This repository contains a collection of **3D modeling and animation projects** created using **3ds Max**. These projects showcase a variety of skills, including:  
+A collection of **3D modeling and animation projects** created using **3ds Max**. These projects showcase a variety of skills, including:  
 - 3D modeling: Designing objects and scenes with realistic geometry.  
 - Texturing and lighting: Applying textures and setting up lighting for enhanced realism.  
 - Rendering: Producing high-quality renders of models and scenes.  
