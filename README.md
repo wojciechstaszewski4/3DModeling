@@ -51,31 +51,31 @@ Each folder includes:
 1. **Sword**  
    - A stylized sword showcasing attention to detail and material design.  
 
-11. **Boxer**  
+1. **Boxer**  
    - A dynamic pose of a boxer, showcasing intricate musculature and action.  
 
-12. **Bruce Lee**  
+1. **Bruce Lee**  
    - A model inspired by martial arts, capturing an iconic action stance.  
 
-13. **Dancer**  
+1. **Dancer**  
    - A graceful dance pose with attention to flow and motion.  
 
-14. **Golfer (After Swing)**  
+1. **Golfer (After Swing)**  
    - A detailed model of a golfer finishing a swing.  
 
-15. **Golfer (Before Swing)**  
+1. **Golfer (Before Swing)**  
    - A realistic depiction of a golfer preparing to swing.  
 
-16. **Hero**  
+1. **Hero**  
    - A heroic figure, designed to capture strength and determination.  
 
-17. **Loser**  
+1. **Loser**  
    - A character with expressive modeling to depict defeat or reflection.  
 
-18. **Runner**  
+1. **Runner**  
    - A runner in action, focusing on speed and movement.  
 
-19. **Speaker**  
+1. **Speaker**  
    - A model of a speaker mid-speech, designed for realism and engagement.  
 
 ---
