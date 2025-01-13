@@ -48,7 +48,7 @@ Each folder includes:
 9. **Bottles**  
    - A series of bottles modeled with different shapes and proportions.  
 
-1. **Sword**  
+10. **Sword**  
    - A stylized sword showcasing attention to detail and material design.  
 
 1. **Boxer**  
