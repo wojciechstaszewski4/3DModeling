@@ -48,35 +48,41 @@ Each folder includes:
 9. **Bottles**  
    - A series of bottles modeled with different shapes and proportions.  
 
-1. **Sword**  
-   - A stylized sword showcasing attention to detail and material design.  
+10. **Basic Sword**  
+    - A simple sword with basic textures and minimalistic design.  
 
-1. **Boxer**  
-   - A dynamic pose of a boxer, showcasing intricate musculature and action.  
+11. **Demonic Sword**  
+    - A dark and jagged sword with an ominous appearance, featuring enhanced UVW-mapped textures for high-quality detailing.  
 
-1. **Bruce Lee**  
-   - A model inspired by martial arts, capturing an iconic action stance.  
+12. **Knightly Sword**  
+    - A classic, noble sword showcasing refined design and enhanced UVW-mapped textures for improved realism and surface detail.  
 
-1. **Dancer**  
-   - A graceful dance pose with attention to flow and motion.  
+13. **Boxer**  
+    - A dynamic pose of a boxer, showcasing intricate musculature and action.  
 
-1. **Golfer (After Swing)**  
-   - A detailed model of a golfer finishing a swing.  
+14. **Bruce Lee**  
+    - A model inspired by martial arts, capturing an iconic action stance.  
 
-1. **Golfer (Before Swing)**  
-   - A realistic depiction of a golfer preparing to swing.  
+15. **Dancer**  
+    - A graceful dance pose with attention to flow and motion.  
 
-1. **Hero**  
-   - A heroic figure, designed to capture strength and determination.  
+16. **Golfer (After Swing)**  
+    - A detailed model of a golfer finishing a swing.  
 
-1. **Loser**  
-   - A character with expressive modeling to depict defeat or reflection.  
+17. **Golfer (Before Swing)**  
+    - A realistic depiction of a golfer preparing to swing.  
 
-1. **Runner**  
-   - A runner in action, focusing on speed and movement.  
+18. **Hero**  
+    - A heroic figure, designed to capture strength and determination.  
 
-1. **Speaker**  
-   - A model of a speaker mid-speech, designed for realism and engagement.  
+19. **Loser**  
+    - A character with expressive modeling to depict defeat or reflection.  
+
+20. **Runner**  
+    - A runner in action, focusing on speed and movement.  
+
+21. **Speaker**  
+    - A model of a speaker mid-speech, designed for realism and engagement.  
 
 ---
 
