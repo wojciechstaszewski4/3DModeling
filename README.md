@@ -52,10 +52,10 @@ Each folder includes:
     - A simple sword with basic textures and minimalistic design.  
 
 11. **Demonic Sword**  
-    - A dark and jagged sword with an ominous appearance, featuring enhanced UVW-mapped textures for high-quality detailing.  
+    - A dark and jagged sword with an ominous appearance, featuring enhanced UVW-mapped textures.  
 
 12. **Knightly Sword**  
-    - A classic, noble sword showcasing refined design and enhanced UVW-mapped textures for improved realism and surface detail.  
+    - A classic, noble sword showcasing refined design and enhanced UVW-mapped textures.  
 
 13. **Boxer**  
     - A dynamic pose of a boxer, showcasing intricate musculature and action.  
@@ -111,6 +111,16 @@ Each folder includes:
 8. **Basketball**  
    - A textured and realistic basketball animation.  
 
+9. **Ball Lifting**  
+   - A dynamic animation of a character lifting a heavy, large ball.
+
+---
+
+## 🎥 Portfolio  
+
+A compiled video of all animations is available in the repository as `portfolio.mp4`.  
+This video is a showcase of all the animations in this repository, providing an overview of the variety and quality of the projects.
+
 ---
 
 ## 🔧 How to Use  
@@ -118,3 +128,4 @@ Each folder includes:
 1. Browse the folders to explore individual projects.  
 2. Open the `.max` file in **3ds Max** to view or edit the project.  
 3. Review the rendered animations or images to see the final results.  
+4. Watch the `portfolio.mp4` file to see all animations compiled into a single video.  
